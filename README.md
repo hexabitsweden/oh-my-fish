@@ -33,7 +33,7 @@ Oh My Fish provides core infrastructure to allow you to install packages which e
 You can get started right away with the default setup by running this in your terminal:
 
 ```fish
-curl https://raw.githubusercontent.com/oh-my-fish/oh-my-fish/master/bin/install | fish
+curl https://raw.githubusercontent.com/hexabitsweden/oh-my-fish/master/bin/install | fish
 ```
 
 This will download the installer script and start the installation. Alternatively, you can download the installer and customize your install:
